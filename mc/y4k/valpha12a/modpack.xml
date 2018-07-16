@@ -1,0 +1,24 @@
+<package version="1.1">
+  <filegroup source="http://update.year4000.net/mc/y4k/valpha12a/" dest=".">
+    <archive>bin.zip</archive>
+	<archive>config.zip</archive>
+	<archive>coremods.zip</archive>
+	<archive>customnpcs.zip</archive>
+	<archive>lib.zip</archive>
+	<archive>mods.zip</archive>
+	<archive>resources.zip</archive>
+	<archive>root.zip</archive>
+  </filegroup>
+  <filegroup source="http://update.year4000.net/mc/lwjgl/" dest="bin">
+    <archive platform="mac_os_x">lwjgl_mac.zip</archive>
+    <archive platform="linux">lwjgl.zip</archive>
+    <archive platform="solaris">lwjgl.zip</archive>
+	<archive platform="windows">lwjgl.zip</archive>
+  </filegroup>
+  <filegroup source="http://update.year4000.net/mc/lwjgl/natives/" dest="bin/natives">
+    <archive platform="mac_os_x">macosx.zip</archive>
+    <archive platform="linux">linux.zip</archive>
+    <archive platform="solaris">solaris.zip</archive>
+	<archive platform="windows">windows.zip</archive>
+  </filegroup>
+</package>

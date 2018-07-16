@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://update.year4000.net/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mclauncher/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mc/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/texturepack/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/map/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mclauncher/v1/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mclauncher/v2/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mclauncher/v3/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mclauncher/v4/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mclauncher/v5/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mclauncher/v6/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mc/lwjgl/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mc/y4k/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/map/world/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/map/world_nether/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/map/world_the_end/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mc/lwjgl/natives/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://update.year4000.net/mc/y4k/valpha12a/</loc>
+  <lastmod>2013-08-10T15:22:44+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>
